@@ -6,8 +6,6 @@ I am a Computer Science & IT student at Hanoi University of Science and Technolo
 
 ## 🚀 About Me
 
-## 🚀 About Me
-
 ```yaml
 name      : Nguyễn Minh Trí
 alias     : TriNguyen / TriNguyen3110
@@ -22,7 +20,12 @@ interests : [Software Engineering, Algorithms, System Architecture, AI]
 
 ## 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,git,vscode)](https://skillicons.dev)
+- **Languages:** Java, Python, C/C++, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** JavaFX, Swing
+- **Databases:** SQL (MySQL / PostgreSQL)
+- **Tools & Environment:** Git, GitHub, VS Code, IntelliJ IDEA
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql,postgres,git,github,vscode,idea)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring / Working On
 
