@@ -1,6 +1,6 @@
 # Hi, I'm Tri! 👋
 
-I am a Computer Science & IT student at Hanoi University of Science and Technology (HUST), passionate about software engineering, algorithms, and technology.
+Passionate about transforming ideas into code, solving algorithmic challenges, and exploring modern tech stacks.
 
 ![Tri's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=TriNguyen3110&theme=vue-dark&hide_border=true)
 
