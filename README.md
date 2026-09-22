@@ -2,7 +2,7 @@
 
 Passionate about transforming ideas into code, solving algorithmic challenges, and exploring modern tech stacks.
 
-![Tri's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=TriNguyen3110&theme=vue-dark&hide_border=true)
+![Tri's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TriNguyen3110&theme=dark&background=0d1117&hide_border=true)
 
 ## 🚀 About Me
 
