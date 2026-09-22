@@ -6,9 +6,19 @@ I am a Computer Science & IT student at Hanoi University of Science and Technolo
 
 ## 🚀 About Me
 
-- 🎓 **Education:** Information Technology student at Hanoi University of Science and Technology (HUST).
-- 💻 **Interests:** Software Engineering, Algorithms, System Architecture, and AI Applications.
-- 🛠️ **Current Focus:** Building robust desktop/web applications and exploring system-level design.
+## 🚀 About Me
+
+```yaml
+name      : Nguyễn Minh Trí
+alias     : TriNguyen / TriNguyen3110
+role      : Computer Science & IT Student
+location  : Hà Nội, Vietnam 🇻🇳
+education : Đại học Bách khoa Hà Nội (HUST)
+major     : Global ICT (IT-E7)
+gpa       : 3.45 / 4.0
+ielts     : 7.0
+interests : [Software Engineering, Algorithms, System Architecture, AI]
+```
 
 ## 🛠️ Tech Stack & Tools
 
@@ -26,15 +36,3 @@ I am a Computer Science & IT student at Hanoi University of Science and Technolo
 - ✉️ **Email:** *[tringuyen311006@gmail.com]*
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
