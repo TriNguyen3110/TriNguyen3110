@@ -19,8 +19,6 @@ role      : Computer Science & IT Student
 location  : Hà Nội, Vietnam 🇻🇳
 education : Đại học Bách khoa Hà Nội (HUST)
 major     : Global ICT (IT-E7)
-gpa       : 3.45 / 4.0
-ielts     : 7.0
 interests : [Software Engineering, Algorithms, System Architecture, AI]
 ```
 
