@@ -41,5 +41,3 @@ interests : [Software Engineering, Algorithms, System Architecture, AI]
 
 - 🐙 **GitHub:** [TriNguyen3110]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/TriNguyen3110))
 - ✉️ **Email:** *[tringuyen311006@gmail.com]*
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
