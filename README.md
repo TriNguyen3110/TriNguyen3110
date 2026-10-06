@@ -1,13 +1,5 @@
 # Hi, I'm Tri! 👋
 
-<br />
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TriNguyen3110&theme=dark&background=0d1117&hide_border=true" alt="Tri's GitHub Streak" />
-</p>
-
-<br />
-
 ## 🚀 About Me
 
 ```yaml
@@ -39,3 +31,11 @@ interests : [Software Engineering, Algorithms, System Architecture, AI]
 
 - 🐙 **GitHub:** [TriNguyen3110]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/TriNguyen3110))
 - ✉️ **Email:** *[tringuyen311006@gmail.com]*
+
+<br />
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TriNguyen3110&theme=dark&background=0d1117&hide_border=true" alt="Tri's GitHub Streak" />
+</p>
+
+<br />
