@@ -1,7 +1,5 @@
 # Hi, I'm Tri! 👋
 
-Passionate about transforming ideas into code, solving algorithmic challenges, and exploring modern tech stacks.
-
 <br />
 
 <p align="center">
