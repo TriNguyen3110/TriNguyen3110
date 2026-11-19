@@ -39,7 +39,9 @@ location  : Hà Nội, Việt Nam 🇻🇳
 interests : [Software Engineering, Algorithms, System Architecture, AI/ML]
 currently : Building OOP apps with Java · Deep-diving into DSA · Exploring ML
 ```
+
 ---
+
 ## 🛠️ Tech Stack
 <div align="center">
 ### 💻 Languages
@@ -61,7 +63,9 @@ currently : Building OOP apps with Java · Deep-diving into DSA · Exploring ML
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 </div>
+
 ---
+
 ## 🌱 Currently Exploring
 <table>
   <tr>
