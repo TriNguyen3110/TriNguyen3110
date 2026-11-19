@@ -101,17 +101,11 @@ interests : [Software Engineering, Algorithms, System Architecture, AI/ML]
 ## 📬 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tringuyen3110/">
-    <img src="https://img.shields.io/badge/LinkedIn-TriNguyen3110-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <a href="https://www.linkedin.com/in/tringuyen3110/"><img src="https://img.shields.io/badge/LinkedIn-TriNguyen3110-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;
-  <a href="mailto:tringuyen311006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tringuyen311006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="mailto:tringuyen311006@gmail.com"><img src="https://img.shields.io/badge/Email-tringuyen311006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   &nbsp;
-  <a href="https://github.com/TriNguyen3110">
-    <img src="https://img.shields.io/badge/GitHub-TriNguyen3110-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="https://github.com/TriNguyen3110"><img src="https://img.shields.io/badge/GitHub-TriNguyen3110-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </div>
 
 <!-- Footer Wave -->
