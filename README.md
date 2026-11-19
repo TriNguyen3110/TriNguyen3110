@@ -129,9 +129,7 @@ currently : Building OOP apps with Java · Deep-diving into DSA · Exploring ML
   </a>
 </div>
 
-<br/>
-
-<!-- Footer Wave -->
+<!-- Footer Wave sát nút -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
