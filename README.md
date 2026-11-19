@@ -12,22 +12,6 @@
 
 <br/>
 
-<!-- Profile views & social badges -->
-<div align="center">
-  <a href="https://github.com/TriNguyen3110">
-    <img src="https://komarev.com/ghpvc/?username=TriNguyen3110&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-  <a href="https://www.linkedin.com/in/tringuyen3110/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tringuyen311006@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://github.com/TriNguyen3110">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
 ---
 
 ## 🧑‍💻 About Me
