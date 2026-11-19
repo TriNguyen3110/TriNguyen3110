@@ -17,6 +17,9 @@
   <a href="https://github.com/TriNguyen3110">
     <img src="https://komarev.com/ghpvc/?username=TriNguyen3110&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
+  <a href="https://www.linkedin.com/in/tringuyen3110/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
   <a href="mailto:tringuyen311006@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
@@ -37,7 +40,6 @@ university: Đại học Bách khoa Hà Nội (HUST) 🎓
 major     : Global ICT — IT-E7
 location  : Hà Nội, Việt Nam 🇻🇳
 interests : [Software Engineering, Algorithms, System Architecture, AI/ML]
-currently : Building OOP apps with Java · Deep-diving into DSA · Exploring ML
 ```
 
 ---
@@ -70,27 +72,6 @@ currently : Building OOP apps with Java · Deep-diving into DSA · Exploring ML
 
 ---
 
-## 🌱 Currently Exploring
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>☕ Java &amp; OOP</h3>
-      <p>Building desktop applications with <strong>JavaFX &amp; Swing</strong>, applying design patterns and clean architecture.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🧮 Algorithms &amp; DSA</h3>
-      <p>Deep-diving into <strong>graph theory</strong>, optimization problems, and numerical methods.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>🤖 ML &amp; Data Science</h3>
-      <p>Exploring foundational <strong>ML algorithms</strong>, data analysis, and predictive modeling with Python.</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -120,16 +101,20 @@ currently : Building OOP apps with Java · Deep-diving into DSA · Exploring ML
 ## 📬 Let's Connect
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/tringuyen3110/">
+    <img src="https://img.shields.io/badge/LinkedIn-TriNguyen3110-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
   <a href="mailto:tringuyen311006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tringuyen311006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-tringuyen311006%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://github.com/TriNguyen3110">
-    <img src="https://img.shields.io/badge/GitHub-TriNguyen3110-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-TriNguyen3110-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
-<!-- Footer Wave sát nút -->
+<!-- Footer Wave -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 </div>
